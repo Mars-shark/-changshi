@@ -9,3 +9,11 @@ https://git-scm.com/book/zh/v2
 4.git quan wei zhi nan (write by Chinese, main in git)
 5.git fei xing shou ce(a book include many problem others had been meet)
 https://github.com/k88hudson/git-flight-rules/blob/master/README_zh-CN.md#%E6%88%91%E4%BB%8E%E9%94%99%E8%AF%AF%E7%9A%84%E5%88%86%E6%94%AF%E6%8B%89%E5%8F%96%E4%BA%86%E5%86%85%E5%AE%B9%E6%88%96%E6%8A%8A%E5%86%85%E5%AE%B9%E6%8B%89%E5%8F%96%E5%88%B0%E4%BA%86%E9%94%99%E8%AF%AF%E7%9A%84%E5%88%86%E6%94%AF
+6.all the books about IT(simply Chinese)(resources in one)
+https://github.com/EbookFoundation/free-programming-books/blob/master/free-programming-books-zh.md
+7.mi ji of Github
+https://github.com/EbookFoundation/free-programming-books/blob/master/free-programming-books-zh.md
+
+
+
+
